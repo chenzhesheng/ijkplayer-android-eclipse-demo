@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.Light.NoActionBar" parent="Theme.App.Light.NoActionBar">
+
+    </style>
+
+    <style name="Theme.App.NoActionBar" parent="Theme.App.NoActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+
+    </style>
+</resources>
